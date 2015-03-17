@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="memes">
+        <item>Ah Orale</item><item >Me caes bien</item>
+        
+        <item >Duermanse</item>
+        <item >Ta chida</item>
+        <item >Aqui están mis $10</item>
+    </string-array>
+    
+</resources>
